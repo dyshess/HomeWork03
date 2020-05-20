@@ -1,0 +1,6 @@
+C:\Users\Андрей\Desktop\5.1 Исходники Модуль 5\Theme_05\Example_005\bin\Debug\Example_005.exe.config
+C:\Users\Андрей\Desktop\5.1 Исходники Модуль 5\Theme_05\Example_005\bin\Debug\Example_005.exe
+C:\Users\Андрей\Desktop\5.1 Исходники Модуль 5\Theme_05\Example_005\bin\Debug\Example_005.pdb
+C:\Users\Андрей\Desktop\5.1 Исходники Модуль 5\Theme_05\Example_005\obj\Debug\Example_005.csprojAssemblyReference.cache
+C:\Users\Андрей\Desktop\5.1 Исходники Модуль 5\Theme_05\Example_005\obj\Debug\Example_005.exe
+C:\Users\Андрей\Desktop\5.1 Исходники Модуль 5\Theme_05\Example_005\obj\Debug\Example_005.pdb
